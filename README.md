@@ -1,1 +1,2 @@
 # SOFTWRAE-ARCHITECTURE
+  I have taken a look at Uncle Bob’s book ‘Clean Architecture’ and I like a lot of the ideas in their. It’s definitely not for everyone, It could be considered self righteous and preachy, but there are a lot of valid techniques which I’ve been trying to implement into my own code in Python. I would recommend watching the talk Brandon Rhodes gave at PyOhio in 2014 as a supplement to the slideshows in this link.
